@@ -1,5 +1,5 @@
 # AI-and-ML
-AI and ML with
+learining AI and ML from the book
 Hands-On Machine Learning
 with Scikit-Learn, Keras, and
 TensorFlow
